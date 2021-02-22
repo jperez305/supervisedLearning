@@ -6,7 +6,7 @@ Dataset 1: Mushroom classification - Custom dataset, original was from https://w
 
 
 Dataset 2: Survey Response (city/Rural) Dataset: https://www.kaggle.com/miroslavsabo/young-people-survey
-            You only ned the responses.csv file from this kaggle site or you may download for repostiory.
+            You only need the responses.csv file from this kaggle site or you may download for repostiory.
             
             
 ## Running the code:
